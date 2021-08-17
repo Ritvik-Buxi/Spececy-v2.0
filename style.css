@@ -1,0 +1,17 @@
+.card {
+    margin: 10px;
+    float: left;
+    transition: 0.9s;
+}
+
+#cards .card:hover{
+    background-color: blue;
+}
+
+#space-agencies .card:hover{
+    background-color: blue;
+}
+
+#quote{
+    margin: 30px;
+}
